@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **My E-mail : ajay.kusekar2003@gmail.com**
 
-- 📄 Know about my experiences [check out my Portfolio : https://portfolio-web2003.netlify.app/](check out my Portfolio : https://portfolio-web2003.netlify.app/)
+- 📄 Know about my experiences [check out my Portfolio : https://portfolio-web2003.netlify.app/] 
 
 - ⚡ Fun fact **I am also a video editor .Have a small youtube channel, and Instagram acc . You should learn something new !!**
 
