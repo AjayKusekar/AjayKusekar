@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ajay Digambar Kusekar</h1>
 <h3 align="center">A passionate Full Stack Developer , Web designer ,frontend developer ,C++ programmer from India</h3>
