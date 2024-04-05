@@ -50,7 +50,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKusekar&langs_count=8&theme=dark" alt=AjayKusekar />
+<img align="left" width="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKusekar&langs_count=8&theme=dark" alt=AjayKusekar />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AjayKusekar&show_icons=true&locale=en&theme=dark" alt="AjayKusekar" /></p>
 
@@ -60,6 +60,7 @@
 <div align="center">
 <a href="https://github.com/AjayKusekar">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AjayKusekar&theme=dark" height="180em" />
+  <br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AjayKusekar&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AjayKusekar&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AjayKusekar&theme=dark" height="180em" />
