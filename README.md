@@ -50,7 +50,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" width="500rem" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKusekar&langs_count=8&theme=dark" alt=AjayKusekar />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKusekar&layout=compact&theme=dark" alt=AjayKusekar />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AjayKusekar&show_icons=true&locale=en&theme=dark" alt="AjayKusekar" /></p>
 
