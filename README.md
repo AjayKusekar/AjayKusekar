@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | FullStack Developer | C++ </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayKusekar&label=Profile%20views&color=0e75b6&style=flat" alt="AjayKusekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayKusekar&theme=gruvbox" alt="AjayKusekar" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayKusekar&theme=gruvbox" alt="AjayKusekar" /></a> </p>-->
 
 - 🌱 I’m currently learning **DSA in C++, More in depth Web Development**
 - 💬 Ask me about **Web development, C++, DSA, Aptitude, Video editing, Writing**
