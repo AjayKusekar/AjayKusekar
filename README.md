@@ -12,6 +12,7 @@
 - 📝 I regularly write articles on **I contribute To articles on Linkedin, and Geeks for Geeks**
 <!--- 📄 Know about my experiences **https://drive.google.com/file/d/1ARJCtobzkJlPE6vyQuvDf42QQttH7dR5/view**-->
 - ⚡ Fun fact **I am a small Video Editor**
+- **To Acess Private Projects DM me**
 
 <div> <a href="https://www.linkedin.com/in/ajaykusekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AjayKusekar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
