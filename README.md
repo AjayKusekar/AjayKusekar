@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **DSA in C++, More in depth Web Development**
 - 💬 Ask me about **Web development, C++, DSA, Aptitude, Video editing, Writing**
-- 📫 How to reach me **ajay.kusekar2003@gmail.com**
 - 👨‍💻 All of my projects are available at **https://portfolio-web200.netlify.p/**
 - 📝 I regularly write articles on **I contribute To articles on Linkedin, and Geeks for Geeks**
 <!--- 📄 Know about my experiences **https://drive.google.com/file/d/1ARJCtobzkJlPE6vyQuvDf42QQttH7dR5/view**-->
